@@ -2,3 +2,5 @@ numpy
 pandas<3.0.0
 plotly
 streamlit
+openpyxl
+xlrd
